@@ -1,12 +1,13 @@
-# Proyecto de Gestión Académica
+# Proyecto de GestiÃ³n AcadÃ©mica
 
-## Descripción
-Sistema informático para administrar información académica de estudiantes.
+## DescripciÃ³n
+Sistema informÃ¡tico para administrar informaciÃ³n acadÃ©mica de estudiantes.
 
 ## Integrantes
 - Liria Liz Cconislla Sihuincha
+- Estudiante 2
 
-## Tecnologías
+## TecnologÃ­as
 - C++
 - Git
 - GitHub

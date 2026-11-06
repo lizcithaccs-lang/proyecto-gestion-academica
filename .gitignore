@@ -6,8 +6,8 @@
 *.tmp
 *.log
 
-# Carpetas de compilación
+# Carpetas de compilaciÃ³n
 build/
 
-# Configuración local
+# ConfiguraciÃ³n local
 .vscode/
