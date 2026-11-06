@@ -1,0 +1,13 @@
+# Archivos ejecutables
+*.exe
+*.out
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Carpetas de compilación
+build/
+
+# Configuración local
+.vscode/
